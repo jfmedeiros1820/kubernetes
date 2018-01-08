@@ -1,6 +1,9 @@
 ## Start Minikube
 `minikube start`
 
+## Stop Minikube
+`minikube stop`
+
 ## Create new object
 `kubectl create -f <file>`
 
